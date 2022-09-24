@@ -1,2 +1,2 @@
-# OtD_Boards
+# OtD Boards
 OtomaDUINO board files for Arduino IDE
