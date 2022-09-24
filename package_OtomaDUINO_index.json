@@ -1,0 +1,33 @@
+{
+	"packages": [
+		{
+			"name": "OtomaDUINO_Boards",
+			"maintainer": "ML-VPN",
+			"websiteURL": "https://www.ml-vpn.com/",
+			"email": "info@ml-vpn.com",
+			"help": {
+				"online": "https://github.com/ml-vpn/OtD_Boards/issues"
+			},
+      "platforms": [
+        {
+          "name": "OtomaDUINO Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/ml-vpn/OtD_Boards/blob/85e5ff22bb53cb3ffdbefd00f6ae30533db8cf86/Boards/boards.zip?raw=true",
+          "archiveFileName": "boards.zip",
+          "checksum": "SHA-256:34959db08d6c9d5b5fdb246ea2d815114e6ff08fef29dc52f18e1e0e016036e1",
+          "size": "289319",
+          "help": {
+            "online": "https://github.com/ml-vpn/OtD_Boards/issues"
+          },
+          "boards": [
+            { "name": "OtD 1" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+			"tools":[]
+		}
+	]
+}
