@@ -5,7 +5,16 @@
 **OtomaDUINO** is PLC (Programmable Logic Controller) and analog input module alternative.
 
 Current version of OtomaDUINO board is **OtD 1**.<br/>
-![OtD-1 diagram](https://www.ml-vpn.com/en/media/img/OtD_sketch-EN.jpg)
+<p align="left">
+  <strong>OtD-1 Block Diagram:</strong>
+</p>
+
+![OtD 1 Block Diagram](https://www.ml-vpn.com/en/media/img/OtD-1%20System%20Desc%20-%20EN.png)
+<p align="left">
+  <strong>OtD-1 Layout Views:</strong>
+</p>
+
+![OtD 1 Layout Views](https://www.ml-vpn.com/en/media/img/OtD_sketch-EN.jpg)
 
 
 **Electrical**
