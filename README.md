@@ -2,6 +2,8 @@
 
 **OtomaDUINO** is a product designed and commercialized by **ML-VPN** to reduce cost of automation systems. It has adjustable analog input, digital input, digital output and pulse output.
 
+**OtomaDUINO** is PLC (Programmable Logic Controller) and analog input module alternative.
+
 Current version of OtomaDUINO board is **OtD 1**.<br/>
 ![OtD-1 diagram](https://www.ml-vpn.com/en/media/img/OtD_sketch-EN.jpg)
 
