@@ -7,6 +7,9 @@ Current version of OtomaDUINO board is **OtD 1**.<br/>
 
 
 **Electrical**
+
+Feature | Description 
+--- | --- 
 Power | External 12~24VDC - 10W
 USB | 2.0 Type B Micro
 Analog Input | 3 Channel Single-Endded or 2 Channel Differential
@@ -16,7 +19,11 @@ Digital Input | 8 Channel
 Digital Output | 6 Channel
 Pulse Output | 2 Channel
 
+<br/>
+
 **Mechanical**
+Feature | Description 
+--- | --- 
 Dimensions | 11.8 x 10.2 x 3.5cm
 Material | ABS
 
