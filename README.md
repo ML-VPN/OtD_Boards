@@ -1,4 +1,4 @@
-#OtomaDUINO Board Files Package
+# OtomaDUINO Board Files Package
 
 **OtomaDUINO** is a product designed and commercialized by **ML-VPN** to reduce cost of automation systems. It has adjustable analog input, digital input, digital output and pulse output.
 
